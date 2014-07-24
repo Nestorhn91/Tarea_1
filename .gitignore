@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+=======
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -34,3 +57,4 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+>>>>>>> parent of 3ba9af1... Revert ":confetti_ball: Added .gitattributes & .gitignore files"

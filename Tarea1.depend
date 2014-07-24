@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1405488199 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490156 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
+1405487385 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405490187 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1405489166 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.h
+	<iostream>
+	<queue>
+
+1405488264 source:c:\users\nestor lagos\desktop\estructuratarea1-master\evaluador.cpp
+	"Evaluador.h"
+
+1405488264 c:\users\nestor lagos\desktop\estructuratarea1-master\evaluador.h
+	<iostream>
+	<queue>
+
+1406181075 source:c:\users\nestor lagos\desktop\estructuratarea1-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
+1406180300 source:c:\users\nestor lagos\desktop\cola-master\evaluador.cpp
+	"Evaluador.h"
+
+1406180300 c:\users\nestor lagos\desktop\cola-master\evaluador.h
+	<iostream>
+	<queue>
+
